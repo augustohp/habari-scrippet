@@ -1,0 +1,18 @@
+h1. Scrippets Plugin for Habari
+
+This plugin implements the "Scrippets":http://scrippets.org/ markup for Habari posts/pages.
+
+h2. Scrippets
+
+Whether you write movies or television — or write about them — it’s often helpful to be able to include short blocks of dialogue and scene description. Unfortunately, most blogging and forum systems make it difficult.
+Let’s change that.
+With Scrippets, you can add boxes of nicely-formatted script to your blog. It even works in comments.
+
+h2. Instalation
+
+Put the content of this repository inside the /user/plugins/scrippets folder and enable it throught the Habari Administration Panel.
+
+h2. Third Party
+
+This plugin uses the very same regex that exists on the "Wordpress plugin":http://wordpress.org/extend/plugins/wp-scrippets/ made by "Nima Yousefi":http://equinox-of-insanity.com/projects/#wp-scrippets
+
